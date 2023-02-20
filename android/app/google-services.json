@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481997509682",
+    "project_id": "driver-taxi-ecbe0",
+    "storage_bucket": "driver-taxi-ecbe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481997509682:android:e8f514c064f4c8395ed82b",
+        "android_client_info": {
+          "package_name": "com.example.tttaxi_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481997509682-flbp8e3hpflpjcl5odt2uf53am36ef4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxEfIAVL5O5YRUIZbDh-C0IFiZlcRGbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481997509682-flbp8e3hpflpjcl5odt2uf53am36ef4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
